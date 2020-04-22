@@ -10,4 +10,4 @@ prepare_docker_timezone
 docker run --rm -it \
   --name "node-chrome-sonar" \
   ${ENV_VARS} \
-  rubensa/node-chrome-sonar
+  rubensa/node-chrome-sonar:dubnium
