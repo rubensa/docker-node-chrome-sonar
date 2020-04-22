@@ -1,4 +1,4 @@
-# Docker image based on ubuntu and running tini init system
+# Docker image based on rubensa/node-chrome with sonarqube-scanner installed
 
 This is a Docker image based on [rubensa/node-chrome](https://github.com/rubensa/docker-node-chrome) with sonarqube-scanner installed.
 
