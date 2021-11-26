@@ -1,4 +1,4 @@
-FROM rubensa/node-chrome
+FROM rubensa/node-chrome:gallium
 LABEL author="Ruben Suarez <rubensa@gmail.com>"
 
 # Install packages
